@@ -1,0 +1,8 @@
+[submodule "pet-clinic-data"]
+	path = pet-clinic-data
+	url = git@github.com:udoh/pet-clinic-data.git
+	ignore = all
+[submodule "pet-clinic-web"]
+	path = pet-clinic-web
+	url = git@github.com:udoh/pet-clinic-web.git
+	ignore = all
